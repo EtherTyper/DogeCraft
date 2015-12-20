@@ -1,2 +1,2 @@
 # DogeCraft
-A Minecraft server software based on Dogecoin in the aspects of trade, emerald pegs, game taxes, etc.
+There's a new freemium game in town. And it takes its pointers from an older one.
